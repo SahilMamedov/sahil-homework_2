@@ -1,0 +1,17 @@
+﻿start program task_3
+
+get doubele a
+
+if (a <10000 || a >99999) then
+
+print 5 reqemli deyil yazdiqiniz eded
+returun
+
+endif
+
+CALCULATE a = a / 100 * 18
+CALCULATE a = a / 100 * 3
+
+print a
+
+end program

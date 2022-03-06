@@ -1,0 +1,28 @@
+﻿start program Task_7
+
+get double a , b
+init c
+
+if (a < 10000 || a > 99999) then
+
+print 1-ci yazdiqiniz eded 5 reqemli deyil
+return
+
+endif
+
+if (b < 10000 || b > 99999) then
+
+print 2-ci yazdiqiniz eded 5 reqemli deyil
+return
+
+endif
+
+
+CALCULATE c = a + b
+CALCULATE c = c + 500000
+CALCULATE c = c * 10 + 5
+CALCULATE c = c / 100 * 5
+
+print c
+
+end program

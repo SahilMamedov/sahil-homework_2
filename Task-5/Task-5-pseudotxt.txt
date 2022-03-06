@@ -1,0 +1,16 @@
+﻿start program Task_5
+get double a
+
+if (a < 1000 || a > 9999) then
+
+print eded 4 reqemli deyil
+return
+
+endif
+CALCULATE a = a + 40000
+CALCULATE a = a * 100 + 44
+CALCULATE a = a / 100 * 44
+
+print a
+
+end program

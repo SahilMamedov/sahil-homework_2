@@ -1,0 +1,27 @@
+﻿start program task_8
+
+get double a , b
+init c
+
+if (a < 1000 || a > 9999)
+
+print 1-ci yazdiqiniz eded 4 reqemli deyil
+return
+
+endif
+
+ else if (b < 1000000 || b > 9999999)
+
+ print 2-ci Yazdiqiniz eded 7 reqemli deyil
+ return
+
+ endif
+
+ CALCULATE a = a / 100 * 4
+ CALCULATE b = b / 100 * 9
+ CALCULATE c = a + b
+ CALCULATE c = c / 100 * 10
+
+ print c
+
+ end program

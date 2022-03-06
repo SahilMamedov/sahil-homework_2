@@ -1,0 +1,36 @@
+﻿start program task_9
+
+get double a , b , c
+
+init cem
+
+if (a < 100000 || a > 999999)
+
+print 1-ci eded 6 reqemli eded deyil
+return
+
+endif
+
+else if (b < 100000 || b > 999999)
+
+print 2-ci eded 6 reqemli eded deyil
+return
+
+endif
+
+else if (c < 100000 || c > 999999)
+
+print 3-cu eded 6 reqemli eded deyil
+return
+
+endif
+
+CALCULATE a = a / 100 * 10
+CALCULATE b = b / 100 * 10
+CALCULATE c = c / 100 * 10
+CALCULATE cem = a + b + c
+CALCULATE cem = cem / 100 * 10
+
+print cem
+
+end program

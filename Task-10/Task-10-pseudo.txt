@@ -1,0 +1,23 @@
+﻿start program Task_10
+
+get double a , b , c
+
+init d , sum
+
+if  ( a < 1000 || a > 9999 || b < 1000 || b > 9999 || c < 1000 || c > 9999) than
+
+print 1, 2, veya 3-cu Eded 4 reqemli deyil
+return
+
+endif
+
+CALCULATE a = a / 100 * 1
+CALCULATE d = c / 100 * 7
+CALCULATE b = b / 100 * 2
+CALCULATE c = c / 100 * 3
+CALCULATE sum = a - b - c
+CALCULATE  sum = sum + d
+
+print sum
+
+endprogram

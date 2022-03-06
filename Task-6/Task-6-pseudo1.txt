@@ -1,0 +1,16 @@
+﻿start program Task_6
+get double a
+
+if (a < 1000 || a > 9999) then
+
+print yazdiqiniz eded 4 reqemli deyil
+return
+
+endif
+CALCULATE a = a / 100 * 20
+CALCULATE a = a / 100 * 10
+CALCULATE a = a * a
+
+print a
+
+end program

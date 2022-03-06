@@ -1,0 +1,16 @@
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.exe
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.deps.json
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.runtimeconfig.json
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.runtimeconfig.dev.json
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.dll
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\ref\Task-1.dll
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\bin\Debug\net5.0\Task-1.pdb
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.csproj.AssemblyReference.cache
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.AssemblyInfoInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.AssemblyInfo.cs
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.dll
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\ref\Task-1.dll
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.pdb
+C:\Users\Sahil\Desktop\Classroom1\Classroom1\Task-1\obj\Debug\net5.0\Task-1.genruntimeconfig.cache

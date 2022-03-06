@@ -1,0 +1,16 @@
+﻿start program task_1
+
+get a
+
+if a < 1000 || a > 9999 than
+
+print ("4 reqemli deyil")
+
+endif
+
+CALCULATE a = a + 70000
+CALCULATE  a = a * 10 + 8
+
+print a
+
+end program

@@ -1,0 +1,15 @@
+﻿start program task_2
+
+get a
+
+if (a < 100 ||a >999 ) then
+
+print 3 reqemli deyil
+
+endif
+
+CALCULATE a = a * 1000 + a
+
+print a
+
+endprogram
